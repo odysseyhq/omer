@@ -3,7 +3,7 @@ omer
 
 ### OdysseyHQ v.1 :: codenamed **Omer**
 
-Odyssey of the Mind International Headquarters &infin; Teaching &infin; Crativity &infin; Learning &infin;
+Odyssey of the Mind International Headquarters &infin; Teaching &infin; Creativity &infin; Learning &infin;
 
 Since 1978, Odyssey of the Mind has fostered creative thinking and made learning fun through a unique educational program. Millions of students from around the world compete in local, regional, state and national creativity tournaments; less than 1,000 of the most creative minds compete at Odyssey of the Mind's annual World Finals - the pinnacle international team-based divergent problem-solving competition and creativity festival. The Omer project will become OdysseyHQ - an educational social network and learning portal for the global network of independent Odyssey of the Mind Associations.
 
