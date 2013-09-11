@@ -9,7 +9,7 @@ Since 1978, Odyssey of the Mind has fostered creative thinking and made learning
 
 
 
-Today, the Omer project is integrating several open source projects to develop a platform that empowers end-users from around the world to promote cross-cultural interactions and friendships; facilitate communication, collaboration, teaching and learning; and nurture the development of creative problem-sovling skills at every level across the curriculum. Odyssey of the Mind teaches creativity to inspire innovation, and make the world a better place to live. OdysseyHQ seeks to become the most innovative platform to attain those goals.
+Today, the Omer project is simply one person integrating several open source projects to develop a platform that empowers end-users from around the world to promote cross-cultural interactions and friendships; facilitate communication, collaboration, teaching and learning; and nurture the development of creative problem-solving skills at every level across the curriculum. Odyssey of the Mind teaches creativity to inspire innovation, and make the world a better place to live. OdysseyHQ seeks to become the most innovative platform to attain those goals.
 
 ---
 
